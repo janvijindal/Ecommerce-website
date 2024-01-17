@@ -1,0 +1,36 @@
+.offer{
+    background: linear-gradient(180deg,#ce5e6f,#e1ffea22 60%);
+}
+
+.offer-left{
+      line-height: 1.1;
+      margin-left: 25px;
+}
+.offer-left h1{
+    color: #171717;
+    font-size: 80px;
+    font-weight: 600;
+    
+}
+
+.offer-left p{
+    color: #171717;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.button{
+      width: 300px;
+      height: 300px;
+      border-radius: 35px;
+      background-color: #ce5e6f;
+      color: white;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+      padding: 12px;
+      margin-top: 30px;
+}

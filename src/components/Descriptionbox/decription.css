@@ -1,0 +1,13 @@
+.box{
+     border: 1px solid #d0d0d0;
+}
+.fade{
+    background: #FBFBFB;
+    color: #555;
+}
+
+.para{
+     border: 1px solid hsl(0, 0%, 82%);
+     padding: 48px;
+     padding-bottom: 50px;
+}

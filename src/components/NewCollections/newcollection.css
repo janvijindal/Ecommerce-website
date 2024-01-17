@@ -1,0 +1,20 @@
+.collection{
+    gap: 10px;
+   margin-bottom: 100px;
+     
+}
+
+.collection h1{
+   color: #171717;
+}
+
+.collection content{
+    border-radius: 10px;
+}
+
+.new_collection{
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+     gap: 30px;
+     margin-top: 60px;
+}

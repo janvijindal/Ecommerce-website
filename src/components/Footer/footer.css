@@ -1,0 +1,34 @@
+.logo p{
+      color: #383838;
+      font-weight: 700;
+}
+
+.footer-link{
+     color: #252525;
+}
+
+.footer-link li{
+     cursor: pointer;
+}
+
+.container-icon{
+      padding: 10px;
+      padding-bottom: 6px;
+      background: #fbfbfb;
+      border: 1px solid #ebebeb;
+      
+}
+
+.copyright{
+     color: #1a1a1a;
+
+}
+
+.copyright hr{
+      width: 80%;
+      border: none;
+      border-radius: 10px;
+      height: 3px;
+      background: #c7c7c7;
+      
+}

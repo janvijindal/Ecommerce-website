@@ -1,0 +1,10 @@
+.hero{
+      background: linear-gradient(180deg,#ce5e6f,#e1ffea22 60%);
+}
+
+.left-part p{
+    color: #171717;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 1.1;
+}
